@@ -1,4 +1,4 @@
-Lunch Tray Practice Problem - Solution Code
+Add Navigation (Lunch Tray)
 ==================================
 
-Solution code for the Jetpack Compose Navigation practice problems
+Practice navigation form https://developer.adroid.com
